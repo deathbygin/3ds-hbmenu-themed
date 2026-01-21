@@ -1,4 +1,12 @@
-# The Homebrew Launcher
+# The Homebrew Launcher - Themed Edition
+
+Adds a theme menu for the 3DS Homebrew Launcher with 8 themes, including a dark theme. 
+
+Things to note about this fork:
+- THIS IS VIBE CODED. USE AT YOUR OWN RISK.
+- DO NOT USE OF THIS EDITED CODE IN ANY hbmenu PULL REQUEST AS IT IS AI GENERATED.
+
+The rest of the following readme is pulled from hbmenu.
 
 #### Presentation
 
