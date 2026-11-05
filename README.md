@@ -1,5 +1,7 @@
 # The Homebrew Launcher - Themed Edition
 
+[Check out all of my projects here!](https://dbgdungeon.com)
+
 Adds a theme menu for the 3DS Homebrew Launcher with 8 themes, including a dark theme. 
 
 Things to note about this fork:
